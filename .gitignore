@@ -10,6 +10,9 @@
 *.userosscache
 *.sln.docstates
 
+
+
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -332,3 +335,5 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+APICrawler/appsettings.json
+APICrawler/appsettings.json
