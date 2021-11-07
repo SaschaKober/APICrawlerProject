@@ -1,0 +1,4 @@
+{
+	"targetFramework": "net5.0",
+	"packageName": "APICrawler.Api"
+}

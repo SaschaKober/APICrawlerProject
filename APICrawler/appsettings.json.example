@@ -1,0 +1,11 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=SQLSERVER; Initial Catalog=APICrawler_Data; User id=APICrawler; Password=xxx; Integrated Security=false"
+  },
+  "ApiConfig": {
+    "BasePath": "APIUrl",
+    "SQLPrefix": "Endpoint",
+    "AccessToken": ""
+  }
+
+}

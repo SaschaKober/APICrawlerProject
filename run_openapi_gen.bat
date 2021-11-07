@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -File oa_start.ps1
